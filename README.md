@@ -1,6 +1,6 @@
 # beamer-theme-INAPP
 
-This repository aims at providing a `LaTeX` theme implementation for the `beamer` 'documentclass' adequately consistent with the **INAPP** official graphical design.
+This repository provides a `LaTeX` theme implementation for the `beamer` 'documentclass' adequately consistent with the **INAPP** official graphical design.
 
 ## Usage
 
