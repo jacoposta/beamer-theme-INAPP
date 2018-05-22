@@ -19,5 +19,5 @@ The **INAPP** theme should be explicitly included in the *preamble* of the main 
 \usetheme{INAPP}
 ```
 
-In order to correctly render the last frame, please compile twice with your favourite `LaTeX` engine.
+In order to correctly render the last frame, please compile **twice** with your favourite `LaTeX` engine.
  
